@@ -31,6 +31,7 @@ if (cluster.isPrimary && String(processMode).toLocaleLowerCase() == "cluster") {
     const messagesController = require("./controllers/messages/messages.route")
     const productsController = require("./controllers/products/products.route")
     const ordersController = require("./controllers/orders/orders.route");
+    const configController = require("./controllers/config/config.route")
     const passport = require("./scripts/passport");
 
     if (process.env.GZIP == "true") { app.use(compression()); console.log("> GZIP compression enabled") }
@@ -80,7 +81,8 @@ if (cluster.isPrimary && String(processMode).toLocaleLowerCase() == "cluster") {
     panelController.config(app)
     messagesController.config(server)
     ordersController.config(app)
-
+    configController.config(app)
+    
     app.use((req, res, next) => {
         logger.logWarn(req)
     })

@@ -218,3 +218,4 @@
 {"level":"warn","method":"GET","route":"/panel/scripts/socket.io.min.js.map"}
 {"level":"warn","method":"GET","route":"/panel/scripts/socket.io.min.js.map"}
 {"level":"warn","method":"GET","route":"/panel/scripts/socket.io.min.js.map"}
+{"level":"warn","method":"GET","route":"/config"}
