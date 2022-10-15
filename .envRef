@@ -1,0 +1,18 @@
+GZIP="false" # true || false
+MONGO_URL="mongodb://localhost:27017/backend" 
+SESION_DURATION="600000"
+NOTIFICATION_EMAIL="username@gmail.com"
+ALLOW_FORCE_ADMIN="true"
+
+#TWILIO
+TWILIO_ACCOUNT_SID = "xxx"
+TWILIO_AUTH_TOKEN = "xxx"
+TWILIO_MESSAGING_SERVICES_SID = "xxx"
+TWILIO_WHATSAPP_FROM = "+xxx"
+TWILIO_WHATSAPP_TO = "+xxx"
+
+#ADMIN_EMAIL
+ADMIN_USER_HOST = "smtp.ethereal.email"
+ADMIN_USER_PORT = "587"
+ADMIN_EMAIL_USER = "xxx"
+ADMIN_EMAIL_PASS = "xxx"

@@ -1,0 +1,182 @@
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"_message":"user validation failed","errors":{"address":{"kind":"required","message":"Path `address` is required.","name":"ValidatorError","path":"address","properties":{"message":"Path `address` is required.","path":"address","type":"required"}},"telephone":{"kind":"required","message":"Path `telephone` is required.","name":"ValidatorError","path":"telephone","properties":{"message":"Path `telephone` is required.","path":"telephone","type":"required"}}},"level":"error","message":"user validation failed: address: Path `address` is required., telephone: Path `telephone` is required.","name":"ValidationError"}
+{"_message":"user validation failed","errors":{"address":{"kind":"required","message":"Path `address` is required.","name":"ValidatorError","path":"address","properties":{"message":"Path `address` is required.","path":"address","type":"required"}},"telephone":{"kind":"required","message":"Path `telephone` is required.","name":"ValidatorError","path":"telephone","properties":{"message":"Path `telephone` is required.","path":"telephone","type":"required"}}},"level":"error","message":"user validation failed: address: Path `address` is required., telephone: Path `telephone` is required.","name":"ValidationError"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'filename')"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"code":"EAUTH","command":"AUTH PLAIN","level":"error","response":"535 Authentication failed","responseCode":535}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error","message":"error"}
+{"level":"error"}
+{"level":"error","message":"Client must be connected before running operations"}
+{"level":"error","message":"error"}
+{"level":"error","message":"sendAllMessages: ReferenceError: socket is not defined"}
+{"level":"error"}
+{"level":"error","message":"sendAllMessages: ReferenceError: socket is not defined"}
+{"level":"error"}
+{"level":"error","message":"sendAllMessages: ReferenceError: socket is not defined"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"servers":{},"stale":false,"type":"Unknown"}}
+{"level":"error"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"Ya existe el usuario"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
+{"level":"error","message":"sendAllMessages: TypeError: Cannot read properties of undefined (reading 'emit')"}
